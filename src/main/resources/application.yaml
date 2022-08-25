@@ -23,7 +23,7 @@ wechat:
             title: 早上好呀宝贝
             #你们的相遇时间
             meetDate: '2021-12-31'
-            city: 广州
+            city: 驻马店
             #居住地点，高德地图api下载查询 https://lbs.amap.com/api/webservice/download
             cityCode: 411700
             constellation: 处女座
