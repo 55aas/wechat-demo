@@ -35,7 +35,7 @@ wechat:
             cityCode: 411700
             constellation: 处女座
       #颜文字模板
-      emoticonsTemplate: ZixMILxBAtSRnq1_EuVKa7wuH4QDK1_TmqIn9CbaF2Y
+      emoticonsTemplate: 
         templateId: 
         allSend: true
         filterOpenIds:
